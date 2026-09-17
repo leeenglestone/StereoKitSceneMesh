@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "y4cXLimUG34=",
+  "success": true,
+  "projectFilePath": "C:\\Development\\StereoKitSceneMesh\\Projects\\Android\\StereoKitSceneMesh.Android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leeen\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.17\\microsoft.net.illink.tasks.9.0.17.nupkg.sha512",
+    "C:\\Users\\leeen\\.nuget\\packages\\stereokit\\0.3.11\\stereokit.0.3.11.nupkg.sha512",
+    "C:\\Users\\leeen\\.nuget\\packages\\system.numerics.vectors\\4.6.1\\system.numerics.vectors.4.6.1.nupkg.sha512",
+    "C:\\Users\\leeen\\.nuget\\packages\\microsoft.android.runtime.35.android-arm64\\35.0.105\\microsoft.android.runtime.35.android-arm64.35.0.105.nupkg.sha512",
+    "C:\\Users\\leeen\\.nuget\\packages\\microsoft.android.ref.35\\35.0.105\\microsoft.android.ref.35.35.0.105.nupkg.sha512"
+  ],
+  "logs": []
+}

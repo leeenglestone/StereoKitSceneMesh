@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Projects/Android/StereoKitSceneMesh.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="StereoKitSceneMesh.csproj" />
+</Solution>
